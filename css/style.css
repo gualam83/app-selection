@@ -1,5 +1,7 @@
 body{
     font-family: Helvetica;
+    max-width: 500px;
+    margin: 0 auto;
 }
 header{
     display: flex;
